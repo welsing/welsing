@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou o *Florez!* Futuro back-end.
-#### <sub>*"O que te trouxe até aqui, não vai te levar pro proximo nivel."*</sub> 
+#### <sub>*"O que te trouxe até aqui não vai te levar pro proximo nivel."*</sub> 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
