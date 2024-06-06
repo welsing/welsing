@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o *Welsing!*. 
+### 👋 Olá, eu sou o *Welsing!*
 #### <sub>*"O que te trouxe até aqui não vai te levar pro proximo nivel."*</sub> 
 
 
@@ -19,7 +19,7 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/florez.rj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/welsing.wav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bernardowelsing90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bernardo-welsing-372b7920a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
